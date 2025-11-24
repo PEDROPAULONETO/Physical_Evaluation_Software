@@ -45,9 +45,9 @@ public class BaseDados {
         }
     }
 
-    private static final String URL = "jdbc:mysql://localhost:3306/dadosavaliacaofisica";
-    private static final String USER = "root";
-    private static final String PASSWORD = "12345678";
+    private static final String URL = "******************************";
+    private static final String USER = "*****";
+    private static final String PASSWORD = "*******";
 
     static {
         try {
